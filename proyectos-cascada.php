@@ -1,0 +1,1 @@
+<? 'el desarrollo en cascada es recomendable para proyectos estables';
